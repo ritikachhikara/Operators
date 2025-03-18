@@ -1,0 +1,1 @@
+This repository contains examples and questions of various operators in Java. Operators are special symbols used to perform operations on variables and values. In Java, operators are used extensively to manipulate data and control program flow.
