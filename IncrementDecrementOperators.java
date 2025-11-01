@@ -1,4 +1,3 @@
-
 class IncrementDecrementOperators
 {
 	public static void main(String[] args)
@@ -6,7 +5,6 @@ class IncrementDecrementOperators
 		int a=18;
 		System.out.println(a++);
 		System.out.println(a++);
-	
     	System.out.println(++a);
 		System.out.println(a++);
 		System.out.println(a--);
@@ -15,4 +13,5 @@ class IncrementDecrementOperators
 		System.out.println(a++);
 		System.out.println(++a);
 	}
+	
 }

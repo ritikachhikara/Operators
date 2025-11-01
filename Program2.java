@@ -10,4 +10,5 @@ class Program2
 		System.out.println(b);
 		System.out.println(c);
 	}
+	
 }

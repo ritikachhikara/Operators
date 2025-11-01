@@ -9,4 +9,5 @@ class Program1
 		System.out.println(y);
 		System.out.println(z);
 	}
+	
 }
